@@ -1,3 +1,3 @@
 # Linked list
 
-Linked list implementation using JavaScript
+Linked list implementation using JavaScript.
